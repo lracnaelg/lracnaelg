@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lracnaelg
+- 👀 I’m interested in programming, artificial intelligence, game development, cybersecurity, and space exploration.
+- 🌱 I’m currently learning advanced algorithms, data structures, ethical hacking techniques, and rocket propulsion systems.
+- 💞️ I’m looking to collaborate on open-source projects related to AI, cybersecurity tools, indie game development, or space technology.
+- 📫 How to reach me: You can reach me via email at [your@email.com](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a Raspberry Pi-powered robot that can solve Rubik's Cube puzzles in under a minute.
