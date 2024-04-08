@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lracnaelg/lracnaelg/master/CARL gLEAN.jpg" />
+</div>
 # 💫 About Me:
 👋 Hi, I’m @lracnaelg<br>👀 I’m interested in programming, artificial intelligence, game development, cybersecurity, and space exploration.<br>🌱 I’m currently learning advanced algorithms, data structures, ethical hacking techniques, and rocket propulsion systems.<br>💞️ I’m looking to collaborate on open-source projects related to AI, cybersecurity tools, indie game development, or space technology.<br>📫 How to reach me: You can reach me via email at carl@gmail.com or connect with me on LinkedIn.<br>😄 Pronouns: He/Him<br>
 
